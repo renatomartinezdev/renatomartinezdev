@@ -15,7 +15,7 @@ Tengo experiencia con herramientas como Angular, React, React Native, Node.js y 
 
 📫 Puedes contactarme en: <a href="mailto:renatomartinez789@gmail.com">renatomartinez789@gmail.com</a>
 
-## My Skills Include
+## Mis Habilidades
 
 <h4> Lenguajes </h4>
 <span> 
